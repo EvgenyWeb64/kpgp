@@ -1,0 +1,19 @@
+:root {
+	--font-family: "Lato", sans-serif;
+	--font-light: #fff;
+	--font-red: #ed2b2c;
+	--main-background: #121212;
+	--item-background: #5f708a;
+	--items-desktop-background: radial-gradient(48.11% 50% at 50% 46.8%, rgb(95, 112, 138) 0%, rgb(95, 112, 138) 100%);
+	--items-tablet-background: radial-gradient(
+		48.11% 50% at 50% 46.8%,
+		rgb(95, 112, 138) 37.00000047683716%,
+		rgb(95, 112, 138) 100%
+	);
+	--items-mobile-background: linear-gradient(
+		270deg,
+		rgba(95, 112, 138, 0.75) 0%,
+		rgba(95, 112, 138, 0.75) 50%,
+		rgba(95, 112, 138, 0.75) 100%
+	);
+}
